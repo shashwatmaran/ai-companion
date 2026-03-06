@@ -1,0 +1,3 @@
+User: Shashwat
+Favorite drink: coffee
+Project: Raspberry Pi AI Companion
